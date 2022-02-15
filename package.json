@@ -1,0 +1,14 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "main": "Detector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patryk Studziński Antoni Szczepański",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.137.5"
+  }
+}
